@@ -1,0 +1,1 @@
+print (" WHY IS HARD MODE HARD")
