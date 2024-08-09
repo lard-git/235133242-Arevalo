@@ -1,0 +1,32 @@
+    1  ls
+    2  lin
+    3  cd linux_practice
+    4  touch notes.txt
+    5  echo "Hello,LINUZ" > notes.txt 
+    6  echo "this is a practical exam" >> notes.txt
+    7  heads notes.txt
+    8  headtxd notes.txt
+    9  head notes.txt
+   10  tail notes.notes.txt
+   11  tail notes.txt
+   12  mmkdir subdbdir
+   13  mkdir subdir 
+   14  cd subdir 
+   15  mv notes.txt subdir 
+   16  mv subdir practice_practice_subdir
+   17  ls
+   18  python -v 
+   19  cd ..
+   20  ls
+   21  date 
+   22  uptime 
+   23  mv subdir practice_subdir 
+   24  ls
+   25  disk usage 
+   26  cd ..
+   27  gh -vghv
+   28  gh -v
+   29  git -v
+   30  git check out -b finalexam 
+   31  git checkout -b finalexam 
+   32  history > exam_log.txt 
